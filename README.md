@@ -1,7 +1,4 @@
 
-<h1 align="center">
-<img src="https://user-images.githubusercontent.com/85083611/122488720-6de94880-cfb4-11eb-9ce4-62cbe17bbc32.png"  width="150" height="150"  />
-</h1>
 
 
 <h4> Hello, my name is Eljonas Cavalcante.</h4> 
