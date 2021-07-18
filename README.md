@@ -16,7 +16,7 @@ Tools: <br>
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png"  width="35" height="35" align="center" />
 <img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
-__________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 
 
 
@@ -35,14 +35,4 @@ ________________________________________________________________________________
  </p
  
 
-![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
-
-
-
-<h4 align="left">
- 
-[<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
-[<img src = "https://img.shields.io/badge/-Email-%23E54949.svg?&style=5px&style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >](mailto:eljonascavalcante@gmail.com) 
-</h4>
+![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api
