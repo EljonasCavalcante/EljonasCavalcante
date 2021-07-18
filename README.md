@@ -34,6 +34,12 @@ ________________________________________________________________________________
 
  </p>
  
+ 
+ 
+ ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
+ 
  <h4 align="left">
 
 [<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
