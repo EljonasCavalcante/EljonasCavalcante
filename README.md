@@ -32,7 +32,7 @@ ________________________________________________________________________________
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"  width="57" height="57" align="center" />
  
 
- </p
+ </p>
  
 
-![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api
+
