@@ -34,5 +34,11 @@ ________________________________________________________________________________
 
  </p>
  
+ <h4 align="left">
+
+[<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
+[<img src = "https://img.shields.io/badge/-Email-%23E54949.svg?&style=5px&style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >](mailto:eljonascavalcante@gmail.com) 
+</h4>
+ 
 
 
