@@ -36,9 +36,11 @@ ________________________________________________________________________________
  
  
  
- ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true)
+ ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
+
+[![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <h4 align="left">
 
