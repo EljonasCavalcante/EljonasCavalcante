@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
-[![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula&bg_color=1a1b27&hide_border=true&line=00FF7F&color=70a4fc)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <h4 align="left">
 
