@@ -23,11 +23,14 @@ ________________________________________________________________________________
 
 
 <p align="left">
+ 
+ <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="57" height="57" align="center" /> 
+ 
 <img src="https://user-images.githubusercontent.com/85083611/122487433-a20f3a00-cfb1-11eb-9693-218c48f60620.png"  width="45" height="45" align="center" />
  
 <img src="https://img.icons8.com/color/48/000000/css3.png"  width="57" height="57" align="center" />
  
- <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="57" height="57" align="center" />
+
  
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"  width="57" height="57" align="center" />
  
