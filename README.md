@@ -12,11 +12,12 @@
       * Landing Page Design <br>
       * AR Filters    
 <!--te-->
+<p align="left">
 Tools: <br>
 
 <img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
-_________________________________________________________________________________________________________________________________
+
 
 
 
