@@ -39,6 +39,7 @@ Tools: <br>
  </p>
  
  
+ <h1 align="center">
  
  ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex)
 
@@ -46,6 +47,9 @@ Tools: <br>
 
 ![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula&bg_color=1a1b27&hide_border=true&line=00FF7F&color=70a4fc)
  
+ </h1>
+<br>
+
  <h4 align="left">
 
 [<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
