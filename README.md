@@ -2,6 +2,8 @@
 
 
 <h4> Hello, my name is Eljonas Cavalcante.</h4> 
+
+
  
  
    * Graduated in Administration<br>
@@ -39,9 +41,11 @@ Tools: <br>
  
 
  </p>
+
  
  
  <h1 align="center">
+ 
  
  ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex)
 
@@ -49,10 +53,12 @@ Tools: <br>
 
 ![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula&bg_color=1a1b27&hide_border=true&line=00FF7F&color=70a4fc)
  
+ <a href="#"><img src="https://miro.medium.com/max/724/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="400" align="center" /> </a>
  </h1>
 <br>
 
  <h4 align="left">
+  
 
 [<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
 [<img src = "https://img.shields.io/badge/-Email-%23E54949.svg?&style=5px&style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >](mailto:eljonascavalcante@gmail.com) 
