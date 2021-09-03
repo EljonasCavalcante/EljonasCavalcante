@@ -6,7 +6,7 @@
 
  
  
-   * Graduated in Administration<br>
+   * Graduated in Administration.<br>
    * Enthusiast in Front-End Development, Back-End and UX Design <br>
    *  Photoshop editions <br>
       * Logo Design <br>
