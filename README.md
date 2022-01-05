@@ -9,7 +9,7 @@
    * Graduated in Administration.<br>
    * Enthusiast in Front-End Development, Back-End and UX Design <br>
    *  Photoshop editions <br>
-      * UX Design <br>  
+      * UX| UI Design <br>  
       * Logo Design <br>
       * Brand Style Guides <br>
       * Landing Page Design <br>
