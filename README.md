@@ -59,7 +59,7 @@ Tools: <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
-![Eljonas Cavalcante's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EljonasCavalcante&theme=dracula&bg_color=1a1b27&hide_border=true&line=00FF7F&color=70a4fc)
+
  
  <a href="#"><img src="https://miro.medium.com/max/724/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="400" align="center" /> </a>
  </h1>
