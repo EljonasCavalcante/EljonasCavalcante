@@ -8,13 +8,13 @@
  
    * Graduated in Administration.<br>
    * Enthusiast in Front-End Development, Back-End and UX Design <br>
-   *  Photoshop editions <br>
+      *  Photoshop editions <br>
       * UX| UI Design <br>  
-      * Logo Design <br>
-      * Brand Style Guides <br>
-      * Landing Page Design <br>
+      * Figma <br>    
       * AR Filters    
 <!--te-->
+[<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
+[<img src = "https://img.shields.io/badge/-Gmail-%23E54949.svg?&style=5px&style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >](mailto:eljonascavalcante@gmail.com) 
 <p align="left">
 Tools: <br>
 
@@ -67,10 +67,4 @@ Tools: <br>
 
  <h4 align="left">
   
-
-[<img src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=5px&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/eljonascavalcante/) 
-[<img src = "https://img.shields.io/badge/-Email-%23E54949.svg?&style=5px&style=for-the-badge&logo=gmail&logoColor=white" target="_blank" >](mailto:eljonascavalcante@gmail.com) 
 </h4>
- 
-
-___
