@@ -23,6 +23,7 @@ Tools: <br>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" />
+ 
 
 
 
@@ -44,6 +45,10 @@ Tools: <br>
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"  width="52" height="52" align="center" />
  
   <img src="https://user-images.githubusercontent.com/85083611/149635222-4c1bce14-08d5-400e-bd72-69c104045801.png"  width="52" height="52" align="center" />
+ 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="72" height="72" align="center" />
+ 
+ 
   
 
  </p>
