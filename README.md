@@ -2,8 +2,6 @@
 
 
 <h4> Hello, my name is Eljonas Cavalcante.</h4> 
-
-
  
  
    * Graduated in Administration.<br>
