@@ -2,7 +2,6 @@
 
 <h4> Hello, my name is Eljonas Cavalcante.</h4> 
  
- 
    * Graduated in Administration.<br>
    * Enthusiast in Front-End Development, Back-End and UX Design <br>
       *  Photoshop editions <br>
