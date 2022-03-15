@@ -7,7 +7,7 @@
       *  Photoshop editions <br>
       * UX| UI Design <br>  
       * Figma <br>    
-      * AR Filters
+      * AR Filters Instagram
 <!--te-->
  
 <p align="left">
