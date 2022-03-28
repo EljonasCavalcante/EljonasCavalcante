@@ -5,10 +5,7 @@
 <b>UI Designer</b> <br><br>
 
 
-<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
-
-
-
+<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="500" max-width="500" width="500" align="right" alt="badges languages">
 
 ## Sobre mim
 
@@ -24,17 +21,11 @@ Estudando: ReactJS
 <br>
 (projetos de curso e próprios 🠕 )
 <br><br>
-<b>Mobile App</b>
+<b>Mobile App</b> React Native 
 <br>
-React Native 
-<br><br>
-<b>Back-end</b>
+<b>Back-end</b> NodeJS
 <br>
-NodeJS
-<br><br>
-<b>Database</b>
-<br>
-MySQL 
+<b>Database</b> MySQL 
 <br>
 
 <b>UI Design</b><br>
