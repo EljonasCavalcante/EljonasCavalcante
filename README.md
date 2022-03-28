@@ -1,17 +1,64 @@
 
 
 # <b>[Eljonas Cavalcante➥](https://www.linkedin.com/in/eljonascavalcante)</b>
-<b>Front-end</b><br>
-<b>Ux/Ui Designer</b> <br><br>
+<b>Trilhando o caminho Fullstack</b><br>
+<b>UI Designer</b> <br><br><br>
 
- 
-   * Graduated in Administration.<br>
-   * Enthusiast in Front-End Development, Back-End and UX Design <br>
-      *  Photoshop editions <br>
-      * UX| UI Design <br>  
-      * Figma <br>    
-      * AR Filters Instagram
-<!--te-->
+
+<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+
+
+
+
+## Sobre mim
+
+
+Graduado em Administração.<br>
+Entusiasta em Programação
+<br><br>
+<b>Front-end </b>
+<br>
+Conhecimentos:<br> Javascript - HTML - CSS (Sass e Typescript)
+<br>
+Estudando: ReactJS 
+<br>
+(projetos de curso e próprios 🠕 )
+<br><br>
+<b>Mobile App</b>
+<br>
+React Native 
+<br><br>
+<b>Back-end</b>
+<br>
+NodeJS
+<br><br>
+<b>Database</b>
+<br>
+MySQL 
+<br>
+
+<b>UI Design</b><br>
+Feramenta utilizada: Figma
+<br>
+Interface Web
+<br>
+Design Responsivo
+<br>
+Interface Mobile
+<br>
+Dashboard
+<br>
+Protótipos navegáveis com o Figma
+<br>
+Prototipagem e microinterações
+<br>
+Usabilidade 
+<br>
+Pixel Perfect Design
+<br>
+Elementos, Componentes e Princípios da Interface do Usuário
+     
+<!--
  
 <p align="left">
 Tools: <br>
@@ -66,4 +113,4 @@ Tools: <br>
 
  <h4 align="left">
   
-</h4>
+</h4> -->
