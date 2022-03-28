@@ -10,49 +10,45 @@
 ## Sobre mim
 
 
-Graduado em Administração.<br>
-Entusiasta em Programação
+Graduado em Administração. Entusiasta em Programação
 <br><br>
-<b>Front-end </b>
+<b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
+
 <br>
-Conhecimentos:<br> Javascript - HTML - CSS (Sass e Typescript)
-<br>
-Estudando: ReactJS 
-<br>
-(projetos de curso e próprios 🠕 )
+<b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
 <br><br>
-<b>Mobile App</b> React Native 
-<br>
-<b>Back-end</b> NodeJS
-<br>
-<b>Database</b> MySQL 
-<br>
 
-<b>UI Design</b><br>
-Feramenta utilizada: Figma
-<br>
-Interface Web
-<br>
-Design Responsivo
-<br>
-Interface Mobile
-<br>
-Dashboard
-<br>
-Protótipos navegáveis com o Figma
-<br>
-Prototipagem e microinterações
-<br>
-Usabilidade 
-<br>
-Pixel Perfect Design
-<br>
-Elementos, Componentes e Princípios da Interface do Usuário
+<b>UI Design</b>
+* Feramenta : Figma
+  * Interface Web - Design Responsivo - Interface Mobile
+  * Prototipagem e microinterações - Usabilidade - Pixel Perfect Design
+  * Elementos, Componentes e Princípios da Interface do Usuário
 
 
+     
+## Linguagens e Ferramentas</b>:
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br> 
+  
+  
+  
+  ![html](https://user-images.githubusercontent.com/85083611/160469292-e31441c1-965c-401d-a5c4-614a73f50cf5.svg) &nbsp;
+  ![css](https://user-images.githubusercontent.com/85083611/160469043-6957784e-f4f0-4d49-ab5e-4e566873ce31.svg) &nbsp;
+  ![js](https://user-images.githubusercontent.com/85083611/160469117-762b11c8-d703-4307-af7d-ae7c35700925.svg) &nbsp;
+  ![nodejs](https://user-images.githubusercontent.com/85083611/160469974-ea8cd9f5-2e65-4e5e-8558-f3802f24de70.svg) &nbsp;
+  ![sass](https://user-images.githubusercontent.com/85083611/160468652-62aa0ee0-79f8-4030-93f4-adfbd205c3bd.svg) &nbsp;
+  ![bootstrap](https://user-images.githubusercontent.com/85083611/160469081-4643662a-09c6-4918-bee7-3a87c91b66e5.svg) &nbsp;  
+  ![github](https://user-images.githubusercontent.com/85083611/160468991-c8b5abb8-241d-4a64-961c-d63bd0470e3a.svg) &nbsp;
+  ![git](https://user-images.githubusercontent.com/85083611/160469202-1e7ab390-190b-4914-9179-3512325a6196.svg) &nbsp;
+  ![mysql](https://user-images.githubusercontent.com/85083611/160468833-460c04dd-49df-49d7-86f2-4be860f96c82.svg) &nbsp;
+  ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp;
+  ![vscode](https://user-images.githubusercontent.com/85083611/160469237-9d5d2aff-a6ef-44eb-a4c1-1616761c75e1.svg) &nbsp;
+  ![figma](https://user-images.githubusercontent.com/85083611/160468922-fd0cabfa-a467-45c3-9ccd-9fa4aee6aaaf.svg) &nbsp;
+  ![reactjs](https://user-images.githubusercontent.com/85083611/160469709-a80dc6b1-496f-4f7e-8d81-6ddf51ab5b2b.svg) &nbsp;
+ 
 
-
-
+</div>
+<br><br><br>
+    
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=demo&theme=tokyonight&border_radius=15&hide_border=true" />
@@ -60,9 +56,17 @@ Elementos, Componentes e Princípios da Interface do Usuário
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
 </a>
-     
 
-     
+
+
+
+
+
+
+
+
+
+
 <!--
  
 <p align="left">
