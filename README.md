@@ -2,7 +2,7 @@
 
 # <b>[Eljonas Cavalcante➥](https://www.linkedin.com/in/eljonascavalcante)</b>
 <b>Front-end</b><br>
-<b>Ux/Ui Desiner</b> <br><br>
+<b>Ux/Ui Designer</b> <br><br>
 
  
    * Graduated in Administration.<br>
