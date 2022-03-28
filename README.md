@@ -24,6 +24,11 @@ Graduado em Administração. Entusiasta em Programação
   * Prototipagem e microinterações - Usabilidade - Pixel Perfect Design
   * Elementos, Componentes e Princípios da Interface do Usuário
 
+<p><b>
+
+  _Nós nos transformamos naquilo que praticamos com frequência. A perfeição, portanto, não é um ato isolado. É um hábito._<br>
+ -Aristóteles
+</p></b>
 
      
 ## Linguagens e Ferramentas</b>:
@@ -48,6 +53,19 @@ Graduado em Administração. Entusiasta em Programação
 
 </div>
 <br><br><br>
+
+<p align="left">
+Ferramentas : <br>
+
+<img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
+ <img src="https://user-images.githubusercontent.com/85083611/149635363-91cabd41-89da-4763-b2a7-92a7b7ac45ac.png"  width="35" height="35" align="center" />
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" />
+ 
+
+
+<p align="left"><br><br><br>
     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
