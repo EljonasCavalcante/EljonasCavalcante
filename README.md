@@ -2,7 +2,7 @@
 
 # <b>[Eljonas Cavalcante➥](https://www.linkedin.com/in/eljonascavalcante)</b>
 <b>Trilhando o caminho Fullstack</b><br>
-<b>UI Designer</b> <br><br><br>
+<b>UI Designer</b> <br><br>
 
 
 <img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
