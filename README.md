@@ -14,7 +14,7 @@ Graduado em Administração. Entusiasta em Programação
 <br><br>
 <b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
 
-<br>
+
 <b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
 <br><br>
 
