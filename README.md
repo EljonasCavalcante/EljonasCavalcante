@@ -22,7 +22,7 @@ Graduado em Administração. Entusiasta em Programação
 * Feramenta : Figma
   * Interface Web - Design Responsivo - Interface Mobile
   * Prototipagem e microinterações - Usabilidade - Pixel Perfect Design
-  * Elementos, Componentes e Princípios da Interface do Usuário
+  * Elementos, Componentes, Princípios da Interface do Usuário e teoria das cores
 
 <p><b>
 
