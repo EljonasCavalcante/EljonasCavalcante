@@ -66,7 +66,7 @@ Ferramentas : <br>
  
 
 
-<p align="center"><br><br><br>
+<p align="center"><br><br>
     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
