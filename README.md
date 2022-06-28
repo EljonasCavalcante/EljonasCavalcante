@@ -28,13 +28,9 @@ Graduado em Administração. Entusiasta em Programação
   * Interface Web - Design Responsivo - Interface Mobile
   * Prototipagem e microinterações - Usabilidade - Pixel Perfect Design
   * Elementos, Componentes, Princípios da Interface do Usuário e teoria das cores
-
-
-
      
 ## Linguagens e Ferramentas</b>:
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br> 
-  
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>   
   
   
   ![html](https://user-images.githubusercontent.com/85083611/160469292-e31441c1-965c-401d-a5c4-614a73f50cf5.svg) &nbsp;
