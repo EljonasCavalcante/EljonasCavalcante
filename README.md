@@ -19,7 +19,6 @@ Graduado em Administração. Entusiasta em Programação
 <br><br>
 <b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
 
-
 <b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
 <br><br>
 
@@ -71,10 +70,6 @@ Ferramentas : <br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
 </a>
-
-
-
-
 
 
 
