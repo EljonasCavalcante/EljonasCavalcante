@@ -71,12 +71,6 @@ Ferramentas : <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
 </a>
 
-
-
-
-
-
-
 <!--
  
 <p align="left">
