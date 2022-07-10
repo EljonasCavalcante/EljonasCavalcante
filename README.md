@@ -60,7 +60,6 @@ Ferramentas : <br>
 
 <p align="center"><br><br>
     
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=demo&theme=tokyonight&border_radius=15&hide_border=true" />
 </a>
@@ -101,10 +100,8 @@ Tools: <br>
  
  
   
-
  </p>
  
-
 
  
  
