@@ -42,8 +42,7 @@ Graduado em Administração. Entusiasta em Programação
   ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp;
   ![vscode](https://user-images.githubusercontent.com/85083611/160469237-9d5d2aff-a6ef-44eb-a4c1-1616761c75e1.svg) &nbsp;
   ![figma](https://user-images.githubusercontent.com/85083611/160468922-fd0cabfa-a467-45c3-9ccd-9fa4aee6aaaf.svg) &nbsp;
-  ![reactjs](https://user-images.githubusercontent.com/85083611/160469709-a80dc6b1-496f-4f7e-8d81-6ddf51ab5b2b.svg) &nbsp;
- 
+  ![reactjs](https://user-images.githubusercontent.com/85083611/160469709-a80dc6b1-496f-4f7e-8d81-6ddf51ab5b2b.svg) &nbsp; 
 
 </div>
 <br><br><br>
