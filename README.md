@@ -101,7 +101,8 @@ Tools: <br>
  
  ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&langs_count=10&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
+
 
 
  
