@@ -103,7 +103,6 @@ Tools: <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&langs_count=10&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
 
 
-
  
  <a href="#"><img src="https://miro.medium.com/max/724/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="400" align="center" /> </a>
  </h1>
