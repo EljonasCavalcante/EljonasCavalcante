@@ -13,6 +13,7 @@
 
 ## Sobre mim
 
+
 Graduado em Administração. Entusiasta em Programação
 <br><br>
 <b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
