@@ -19,7 +19,7 @@ Graduado em Administração. Entusiasta em Programação
 <b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
 
 <b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
-<br><br>
+<br>
 
 <b>UI Design</b>
 * Feramenta : Figma
