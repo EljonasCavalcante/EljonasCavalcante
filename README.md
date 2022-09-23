@@ -20,7 +20,6 @@ Graduado em Administração. Entusiasta em Programação
 
 <b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
 <br>
-
 <b>UI Design</b>
 * Feramenta : Figma
   * Interface Web - Design Responsivo - Interface Mobile
