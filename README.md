@@ -2,7 +2,6 @@
 # <b>[Eljonas Cavalcante➥](https://www.linkedin.com/in/eljonascavalcante)</b>
 <b>Trilhando o caminho Fullstack</b><br>
 <b>UI Designer</b> <br>
-
 <p><b>
 
   _Nós nos transformamos naquilo que praticamos com frequência. A perfeição, portanto, não é um ato isolado. É um hábito._<br>
