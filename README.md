@@ -7,8 +7,8 @@
   _Nós nos transformamos naquilo que praticamos com frequência. A perfeição, portanto, não é um ato isolado. É um hábito._<br>
  -Aristóteles
 </p></b>
-
-<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+<!--
+<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages"> -->
 
 ## Sobre mim
 Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Entusiasta em Programação
