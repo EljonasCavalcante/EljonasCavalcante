@@ -38,13 +38,11 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   ![git](https://user-images.githubusercontent.com/85083611/160469202-1e7ab390-190b-4914-9179-3512325a6196.svg) &nbsp;
   ![github](https://user-images.githubusercontent.com/85083611/160468991-c8b5abb8-241d-4a64-961c-d63bd0470e3a.svg) &nbsp;  
   ![mysql](https://user-images.githubusercontent.com/85083611/160468833-460c04dd-49df-49d7-86f2-4be860f96c82.svg) &nbsp;
-  ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp;
- 
-  
+  ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp; 
   
 
 </div>
-<br><br><br>
+<br>
 
 <p align="left">
 Ferramentas : <br>
