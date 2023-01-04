@@ -29,16 +29,19 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   ![html](https://user-images.githubusercontent.com/85083611/160469292-e31441c1-965c-401d-a5c4-614a73f50cf5.svg) &nbsp;
   ![css](https://user-images.githubusercontent.com/85083611/160469043-6957784e-f4f0-4d49-ab5e-4e566873ce31.svg) &nbsp;
   ![js](https://user-images.githubusercontent.com/85083611/160469117-762b11c8-d703-4307-af7d-ae7c35700925.svg) &nbsp;
+  ![reactjs](https://user-images.githubusercontent.com/85083611/160469709-a80dc6b1-496f-4f7e-8d81-6ddf51ab5b2b.svg) &nbsp; 
   ![nodejs](https://user-images.githubusercontent.com/85083611/160469974-ea8cd9f5-2e65-4e5e-8558-f3802f24de70.svg) &nbsp;
   ![sass](https://user-images.githubusercontent.com/85083611/160468652-62aa0ee0-79f8-4030-93f4-adfbd205c3bd.svg) &nbsp;
-  ![bootstrap](https://user-images.githubusercontent.com/85083611/160469081-4643662a-09c6-4918-bee7-3a87c91b66e5.svg) &nbsp;  
-  ![github](https://user-images.githubusercontent.com/85083611/160468991-c8b5abb8-241d-4a64-961c-d63bd0470e3a.svg) &nbsp;
+  ![bootstrap](https://user-images.githubusercontent.com/85083611/160469081-4643662a-09c6-4918-bee7-3a87c91b66e5.svg) &nbsp;
+  ![figma](https://user-images.githubusercontent.com/85083611/160468922-fd0cabfa-a467-45c3-9ccd-9fa4aee6aaaf.svg) &nbsp;
+  ![vscode](https://user-images.githubusercontent.com/85083611/160469237-9d5d2aff-a6ef-44eb-a4c1-1616761c75e1.svg) &nbsp;
   ![git](https://user-images.githubusercontent.com/85083611/160469202-1e7ab390-190b-4914-9179-3512325a6196.svg) &nbsp;
+  ![github](https://user-images.githubusercontent.com/85083611/160468991-c8b5abb8-241d-4a64-961c-d63bd0470e3a.svg) &nbsp;  
   ![mysql](https://user-images.githubusercontent.com/85083611/160468833-460c04dd-49df-49d7-86f2-4be860f96c82.svg) &nbsp;
   ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp;
-  ![vscode](https://user-images.githubusercontent.com/85083611/160469237-9d5d2aff-a6ef-44eb-a4c1-1616761c75e1.svg) &nbsp;
-  ![figma](https://user-images.githubusercontent.com/85083611/160468922-fd0cabfa-a467-45c3-9ccd-9fa4aee6aaaf.svg) &nbsp;
-  ![reactjs](https://user-images.githubusercontent.com/85083611/160469709-a80dc6b1-496f-4f7e-8d81-6ddf51ab5b2b.svg) &nbsp; 
+ 
+  
+  
 
 </div>
 <br><br><br>
