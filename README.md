@@ -53,12 +53,12 @@ Ferramentas :
 
 <p align="center"><br><br>
     
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=demo&theme=tokyonight&border_radius=15&hide_border=true&langs_count=10" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a> -->
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
-</a>
+</a> -->
 <!--
 
 <p align="left">
