@@ -13,10 +13,8 @@
 ## Sobre mim
 Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Entusiasta em Programação
 <br>
-<b>Front-end: </b> <br> Javascript - HTML - CSS -  ReactJS  (Sass e Typescript)
+<b>Software Engineer : </b> <br> Javascript - Typescript - HTML - CSS -  React - Android/ IOS - AWS - Golang - Database.
 
-<b>Back-end :</b> NodeJS <br><br><b>Mobile App :</b> React Native <br><br><b>Database :</b> MySQL 
-<br>
 <b>UI Design</b>
 * Feramenta : Figma
   * Interface Web - Design Responsivo - Interface Mobile
@@ -39,6 +37,8 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   ![github](https://user-images.githubusercontent.com/85083611/160468991-c8b5abb8-241d-4a64-961c-d63bd0470e3a.svg) &nbsp;  
   ![mysql](https://user-images.githubusercontent.com/85083611/160468833-460c04dd-49df-49d7-86f2-4be860f96c82.svg) &nbsp;
   ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp; 
+  <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/4b0ecbf5-5082-475c-9baf-b8558e4dc5af"  width="64" height="64" /> 
+  
 </div>
 
 <p align="left">
@@ -51,8 +51,11 @@ Ferramentas :
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" /> 
 
+
 <p align="center"><br><br>
     
+ 
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=demo&theme=tokyonight&border_radius=15&hide_border=true&langs_count=10" />
 </a> -->
