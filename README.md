@@ -38,7 +38,9 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   ![mysql](https://user-images.githubusercontent.com/85083611/160468833-460c04dd-49df-49d7-86f2-4be860f96c82.svg) &nbsp;
   ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp; 
   <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/4b0ecbf5-5082-475c-9baf-b8558e4dc5af"  width="64" height="64" /> 
-  
+  <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/f1c39118-06c4-422b-a924-8687991e5a75"  width="70" height="50" /> 
+ 
+
 </div>
 
 <p align="left">
@@ -56,10 +58,11 @@ Ferramentas :
     
  
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&layout=demo&theme=tokyonight&border_radius=15&hide_border=true&langs_count=8" />
    
-</a> 
+</a> -->
  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
 </a> 
