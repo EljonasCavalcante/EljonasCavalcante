@@ -39,7 +39,10 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   ![terminal](https://user-images.githubusercontent.com/85083611/160468890-3f3a6e5f-87ed-4946-bc2c-ee6d12ca3c68.svg) &nbsp; 
   <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/4b0ecbf5-5082-475c-9baf-b8558e4dc5af"  width="64" height="64" /> 
   <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/f1c39118-06c4-422b-a924-8687991e5a75"  width="70" height="50" /> 
- 
+ <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/09c29d4e-b544-4fd4-92a7-dd2df1d661cc"  width="55" height="50" /> 
+
+
+
 
 </div>
 
