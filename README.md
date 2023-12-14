@@ -7,8 +7,7 @@
   _Nós nos transformamos naquilo que praticamos com frequência. A perfeição, portanto, não é um ato isolado. É um hábito._<br>
  -Aristóteles
 </p></b>
-<!--
-<img src="https://user-images.githubusercontent.com/85083611/160430856-962db39c-65b9-4aa3-85fe-c9cb6e04e81a.png" min-width="400" max-width="400" width="400" align="right" alt="badges languages"> -->
+
 
 ## Sobre mim
 Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Entusiasta em Programação
@@ -41,87 +40,25 @@ Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Ent
   <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/f1c39118-06c4-422b-a924-8687991e5a75"  width="70" height="50" /> 
   <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/09c29d4e-b544-4fd4-92a7-dd2df1d661cc"  width="55" height="50" /> 
    <img src="https://github.com/EljonasCavalcante/EljonasCavalcante/assets/85083611/ca49dac7-0898-4db6-8b7f-2e9f2303bb9b"  width="60" height="60" /> 
-  
-
-
-  
-
-
-
 
 </div>
 
 <p align="left">
-Ferramentas : 
- 
-
-<img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
- <img src="https://user-images.githubusercontent.com/85083611/149635363-91cabd41-89da-4763-b2a7-92a7b7ac45ac.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" /> 
-
-
-<p align="center"><br><br>
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&hide=GLSL,Rust,Astro,Assembly,Lua,Makefile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+  Ferramentas : 
   
+  <img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
+  <img src="https://user-images.githubusercontent.com/85083611/149635363-91cabd41-89da-4763-b2a7-92a7b7ac45ac.png"  width="35" height="35" align="center" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" /> 
 
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
-</a> 
+</p>
 
-
-  
-  
-<!--
-
-<p align="left">
-Tools: <br>
-
-<img src="https://img.icons8.com/color/48/000000/git.png"  width="40" height="40" align="center" />
- <img src="https://user-images.githubusercontent.com/85083611/149635363-91cabd41-89da-4763-b2a7-92a7b7ac45ac.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="35" height="35" align="center" />
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"  width="38" height="38" align="center" /> 
-
-<p align="left">
-
- 
- <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="57" height="57" align="center" /> 
- 
-<img src="https://user-images.githubusercontent.com/85083611/122487433-a20f3a00-cfb1-11eb-9693-218c48f60620.png"  width="45" height="45" align="center" />
- 
-<img src="https://img.icons8.com/color/48/000000/css3.png"  width="57" height="57" align="center" /> 
-
- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"  width="57" height="57" align="center" />
- 
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"  width="52" height="52" align="center" />
- 
-  <img src="https://user-images.githubusercontent.com/85083611/149635222-4c1bce14-08d5-400e-bd72-69c104045801.png"  width="52" height="52" align="center" />
- 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="72" height="72" align="center" /> 
-  
- </p> 
- 
- <h1 align="center">
-
- ![Eljonas Cavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=prs,issues&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EljonasCavalcante&langs_count=10&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
-
-
- 
- <a href="#"><img src="https://miro.medium.com/max/724/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"  height="400" align="center" /> </a>
- </h1>
 <br>
 
-
-
- <h4 align="left">
+<a href="https://github.com/anuraghazra/convoychat">
   
-</h4> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EljonasCavalcante&hide=&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&diplay=flex" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&hide=GLSL,Rust,Astro,Assembly,Lua,Makefile&theme=tokyonight&border_radius=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+ 
+</a> 
