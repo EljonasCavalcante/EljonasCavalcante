@@ -10,9 +10,18 @@
 
 
 ## Sobre mim
-Graduado em Administração, Análise de Desenvolvimento e Sistema e Cursando Pos graduação Desenvolvimento Fullstack. 
-<br>
-<b>Software Engineer : </b> <br> Javascript - Typescript - Python - HTML - CSS -  React - Android/ IOS - AWS - Golang - Database.
+Graduado em Administração, Análise e Desenvolvimento de Sistemas, e atualmente cursando Pós-graduação em Desenvolvimento Fullstack.
+
+**Software Engineer:**
+- **Linguagens:** JavaScript, TypeScript, Python, Golang
+- **Front-end:** HTML, CSS, React
+- **Mobile:** Android, iOS (React Native)
+- **Back-end:** Node.js
+- **Cloud:** AWS
+- **DevOps:** Docker, Kubernetes, Nexus
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Ferramentas e Tecnologias:** Datadog, COPS, New Relic, PagerDuty, Miro, Jira, Figma, Confluence
+
 
 
      
