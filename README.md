@@ -10,15 +10,11 @@
 
 
 ## Sobre mim
-Graduado em Administração. Cursando Análise de Desenvolvimento e Sistema. Entusiasta em Programação
+Graduado em Administração, Análise de Desenvolvimento e Sistema e Cursando Pos graduação Desenvolvimento Fullstack. 
 <br>
-<b>Software Engineer : </b> <br> Javascript - Typescript - Go - Python - HTML - CSS -  React - Android/ IOS - AWS - Golang - Database.
+<b>Software Engineer : </b> <br> Javascript - Typescript - Python - HTML - CSS -  React - Android/ IOS - AWS - Golang - Database.
 
-<b>UI Design</b>
-* Feramenta : Figma
-  * Interface Web - Design Responsivo - Interface Mobile
-  * Prototipagem e microinterações - Usabilidade - Pixel Perfect Design
-  * Elementos, Componentes, Princípios da Interface do Usuário e teoria das cores
+
      
 ## Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>     
