@@ -11,33 +11,42 @@
 ## About Me
 I am a technology enthusiast with a background in Business Administration and Systems Analysis and Development. Currently, I am expanding my expertise through a postgraduate program in Full Stack Development. Along this academic and professional journey, I strive to refine my skills and knowledge to excel in the field of technology.
 
-Top soft skills:
-- Empatia;
-- Respeito;
-- Liderança;
-- Gestão do tempo;
-- Trabalho em equipe;
-- Flexibilidade;
-- Assertividade;
-- Inteligencia emocional;
+ Top Soft Skills
 
-Top Hard Skills:
-- Microservice;
-- AWS;
-- APIs REST;
-- Sistemas escaláveis e de alto desempenho;
-- Linguagem(Javascript, Typescript, Node, Python, Go, Java, Dart, Node);
-- Frontend (ReactJS, React Native, Flutter);
-- SQL databases (Postgress, MySQL);
-- NoSQL database (MongoDB, DynamoDB, Redis);
-- AWS Services (S3, Route 53, ECR, EC2, SQS, SNS, Lambda);
-- Docker
-- Metodologias de desenvolvimento de software (Kanban e Scrum);
-- Cursando Pós-gradução em Desenvolvimento Full Stack;
+- **Empathy**
+- **Respect**
+- **Leadership**
+- **Time Management**
+- **Teamwork**
+- **Flexibility**
+- **Assertiveness**
+- **Emotional Intelligence**
 
 
-Outros:
-- Jira software, Grafana, Slack, Teams, Github, Git, Miro, Figma, Datadog, PagerDuty.
+ Technical Skills Overview
+
+- **Microservices**: Expertise in designing and developing modular, distributed systems.
+- **AWS**: Proficiency in cloud solutions using AWS services.
+- **RESTful APIs**: Experience building and consuming REST APIs for seamless communication between systems.
+- **Scalable and High-Performance Systems**: Skilled in creating solutions to handle large-scale operations.
+- **Programming Languages**: Proficient in JavaScript, TypeScript, Node.js, Python, Go, Java, and Dart.
+- **Frontend Development**: Expertise in ReactJS, React Native, and Flutter for creating responsive and user-friendly interfaces.
+- **SQL Databases**: Knowledgeable in PostgreSQL and MySQL for relational database management.
+- **NoSQL Databases**: Familiarity with MongoDB, DynamoDB, and Redis for non-relational data storage.
+- **AWS Services**: Hands-on experience with S3, Route 53, ECR, EC2, SQS, SNS, and Lambda.
+- **Docker**: Skilled in containerization to streamline deployment processes.
+- **Software Development Methodologies**: Practice agile methodologies like Kanban and Scrum for efficient project management.
+- **Education**: Currently pursuing a postgraduate degree in Full Stack Development.
+
+
+
+ Other Tools & Platforms
+
+| Jira Software | Grafana     | Slack         | Microsoft Teams |
+|---------------|-------------|---------------|-----------------|
+| GitHub        | Git         | Miro          | Figma           |
+| Datadog       | PagerDuty   |               |                 |
+
 
 
 
