@@ -1,6 +1,6 @@
 
 # <b>[Eljonas Cavalcante➥](https://www.linkedin.com/in/eljonascavalcante)</b>
-<b>Paving the Fullstack Path</b><br>
+<!-- <b>Paving the Fullstack Path</b><br> -->
 <p><b>
 
  We become what we repeatedly practice. Excellence, therefore, is not an act but a habit.
@@ -8,8 +8,8 @@
 </p></b>
 
 
-## About Me
-I am a technology enthusiast with a background in Business Administration and Systems Analysis and Development. Currently, I am expanding my expertise through a postgraduate program in Full Stack Development. Along this academic and professional journey, I strive to refine my skills and knowledge to excel in the field of technology.
+<!-- ## About Me
+I am a technology enthusiast with a background in Business Administration and Systems Analysis and Development. Currently, I am expanding my expertise through a postgraduate program in Full Stack Development. Along this academic and professional journey, I strive to refine my skills and knowledge to excel in the field of technology. -->
 
  Top Soft Skills
 
@@ -34,9 +34,7 @@ I am a technology enthusiast with a background in Business Administration and Sy
 - **SQL Databases**: Knowledgeable in PostgreSQL and MySQL for relational database management.
 - **NoSQL Databases**: Familiarity with MongoDB, DynamoDB, and Redis for non-relational data storage.
 - **AWS Services**: Hands-on experience with S3, Route 53, ECR, EC2, SQS, SNS, and Lambda.
-- **Docker**: Skilled in containerization to streamline deployment processes.
-- **Software Development Methodologies**: Practice agile methodologies like Kanban and Scrum for efficient project management.
-- **Education**: Currently pursuing a postgraduate degree in Full Stack Development.
+- **Docker**
 
 
 
